@@ -16,10 +16,12 @@ C:\Users\furkan\source\repos\ntpLab\ntpLab\bin\Debug\System.Net.Http.Extensions.
 C:\Users\furkan\source\repos\ntpLab\ntpLab\bin\Debug\System.Net.Http.Primitives.xml
 C:\Users\furkan\source\repos\ntpLab\ntpLab\obj\Debug\ntpLab.csproj.App.config
 C:\Users\furkan\source\repos\ntpLab\ntpLab\obj\Debug\ntpLab.csprojAssemblyReference.cache
-C:\Users\furkan\source\repos\ntpLab\ntpLab\obj\Debug\ntpLab.Form1.resources
 C:\Users\furkan\source\repos\ntpLab\ntpLab\obj\Debug\ntpLab.Properties.Resources.resources
 C:\Users\furkan\source\repos\ntpLab\ntpLab\obj\Debug\ntpLab.csproj.GenerateResource.cache
 C:\Users\furkan\source\repos\ntpLab\ntpLab\obj\Debug\ntpLab.csproj.CoreCompileInputs.cache
 C:\Users\furkan\source\repos\ntpLab\ntpLab\obj\Debug\ntpLab.csproj.CopyComplete
 C:\Users\furkan\source\repos\ntpLab\ntpLab\obj\Debug\ntpLab.exe
 C:\Users\furkan\source\repos\ntpLab\ntpLab\obj\Debug\ntpLab.pdb
+C:\Users\furkan\source\repos\ntpLab\ntpLab\obj\Debug\ntpLab.forgotPasswordForm.resources
+C:\Users\furkan\source\repos\ntpLab\ntpLab\obj\Debug\ntpLab.registerForm.resources
+C:\Users\furkan\source\repos\ntpLab\ntpLab\obj\Debug\ntpLab.loginForm.resources
